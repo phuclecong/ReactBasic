@@ -3,11 +3,11 @@
 ## Table of Contents
 - [Installation](#installation)
 - [App](#app)
-- [Component](#component)
+- [Components](#components)
 - [Props](#props)
 - [State](#state)
 - [Handling Events](#handling-events)
-- [Conditional Rendering](conditional-rendering)
+- [Conditional Rendering](#conditional-rendering)
 - [Lists and Keys](#lists-and-keys)
 - [Form](#form)
 - [Composition vs Inheritance](#composition-vs-inheritance)
